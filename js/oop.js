@@ -53,4 +53,4 @@ console.log(ship.list());
 console.log(s);
 console.log(s.list());
 
-alerts(auto1);
+alertList(auto1);
